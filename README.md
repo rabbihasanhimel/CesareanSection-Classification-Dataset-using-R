@@ -1,5 +1,5 @@
-# Caesarian-Section-Classification-Dataset-using-R
-Caesarian Section Classification Dataset using R
+# Cesarean-Section-Classification-Dataset-using-R
+Cesarean Section Classification Dataset using R
 #Removing Missing values
 #Measure of center (MEAN, MEDIAN and MODE) for Blood
 #Measure of center (MEAN, MEDIAN and MODE) for AGE
